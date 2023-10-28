@@ -13,8 +13,6 @@ public class Task3 {
         System.out.println("Радиус равен: " + radius);
         double result = calculateArea(radius);
         System.out.println("Площадь круга равна: " + result);
-
-
     }
 
     //Можно сделать без класса Math, а формулой (PI * radius в степени 2)
