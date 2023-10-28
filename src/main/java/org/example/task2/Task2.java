@@ -20,5 +20,4 @@ public class Task2 {
         double area = Math.pow(side, 2);
         return area;
     }
-
 }
